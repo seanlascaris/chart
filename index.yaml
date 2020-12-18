@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mommy-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-18T07:11:15.776893885Z"
+    description: A Helm chart for Kubernetes
+    digest: ee6a5f24730489fc56124e9f4126f59437ee03d096400019ca6846b1282212c3
+    name: mommy-nginx
+    type: application
+    urls:
+    - mommy-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-18T07:11:15.773431503Z"
