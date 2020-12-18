@@ -9,6 +9,6 @@ entries:
     name: mommy-nginx
     type: application
     urls:
-    - https://seanlascaris.github.io/chart/docs/mommy-nginx-0.1.0.tgz
+    - https://seanlascaris.github.io/chart/mommy-nginx-0.1.0.tgz
     version: 0.1.0
 generated: "2020-12-18T07:34:09.516438859Z"
